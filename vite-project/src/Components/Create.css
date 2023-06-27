@@ -1,0 +1,45 @@
+.opening {
+  display: flex;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 100px;
+}
+
+img {
+  height: 30%;
+  width: 30%;
+}
+
+.button:hover {
+  background-color: darkgreen;
+}
+
+.button {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.forms {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.firstname {
+  padding: 10px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.emails {
+  padding: 10px;
+  width: 100%;
+  border-radius: 4px;
+}
